@@ -1,0 +1,10 @@
+
+
+[ command line args ]
+https://www.tutorialspoint.com/cprogramming/c_command_line_arguments.htm
+
+[ strlen() ]
+https://www.tutorialspoint.com/c_standard_library/c_function_strlen.htm
+
+[ strncmp() ]
+https://www.tutorialspoint.com/c_standard_library/c_function_strncmp.htm

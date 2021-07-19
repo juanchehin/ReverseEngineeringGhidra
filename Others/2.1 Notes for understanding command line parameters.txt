@@ -1,0 +1,24 @@
+main function signature: 
+```````````````````````
+
+   int main(int argc, char *argv[])
+
+argument count: 
+``````````````
+   argc = 2
+
+argument vector (arrays/list of strings): 
+````````````````````````````````````````
+   argv[0] = "c2"
+   argv[1] = "abcde"
+
+   argv[1][0] = 'h'     *argv[1] = 'a'
+   argv[1][1] = 'b'
+   argv[1][2] = 'c'
+   argv[1][3] = 'd'
+   argv[1][4] = 'u'
+
+
+example of a 'correct' password:
+```````````````````````````````   
+   haaau
