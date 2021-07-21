@@ -1,0 +1,6 @@
+
+[ commands to install wine in kali linux]
+sudo dpkg --add-architecture i386
+sudo apt-get update
+sudo apt-get install wine    
+sudo apt-get install wine32
